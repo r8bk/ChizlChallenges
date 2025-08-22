@@ -7,7 +7,7 @@ Build an end-to-end machine learning pipeline for predicting customer churn usin
 ## Dataset
 **Download the dataset here: [customer_churn_data.csv]**
 
-You'll work with a [telecom customer churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/discussion?sort=hotness)) dataset containing:
+You'll work with a [telecom customer churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/discussion?sort=hotness) dataset containing:
 - Customer demographics (age, gender, location)
 - Account information (tenure, contract type, payment method)  
 - Service usage (monthly charges, total charges, services subscribed)
